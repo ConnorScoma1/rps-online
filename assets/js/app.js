@@ -275,5 +275,6 @@ var firebaseConfig = {
       playGame(myPlayerNumber, myUserId);
     });
   }
+  
   assignPlayerNumberAndPlayGame();
   
