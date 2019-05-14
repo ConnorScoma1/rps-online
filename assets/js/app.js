@@ -15,8 +15,8 @@ var firebaseConfig = {
 
   var NUM_PLAYERS = 2;
   // _The root of your game data (consider adding /<unique id>/ if you have multiple game instances)._
-  // Change guest###### to the number you're assigned after the Firebase tutorial
-  var GAME_LOCATION = 'http://demo.firebase.com/guest######';
+  
+  var GAME_LOCATION = 'https://rps-online-fbad4.firebaseio.com"';
   // _A location under GAME\_LOCATION that will store the list of players who have joined the game (up to MAX\_PLAYERS)._
   var PLAYERS_LOCATION = 'player_list';
   var PLAYER_DATA_LOCATION = 'player_data';
